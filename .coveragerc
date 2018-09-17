@@ -1,0 +1,5 @@
+[run]
+source=bb_django_library
+
+[report]
+precision = 2
